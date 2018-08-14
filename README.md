@@ -37,6 +37,7 @@ Recomendo o uso do app [CamScanner](https://play.google.com/store/apps/details?i
 
 ## Bibliografia
 Geraldo Girão Nery (2013). Perfilagem geofísica em poço aberto: fundamentos básicos com ênfase em petróleo. 1ª edição, SBGf.
+
 Philip Kearey, Michael Brooks and Ian Hill (2002). An introduction to geophysical exploration. 3rd edition, Blackwell Science.
 
 ## License
