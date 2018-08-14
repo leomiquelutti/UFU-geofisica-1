@@ -23,7 +23,10 @@ Clique [aqui](https://docs.google.com/spreadsheets/d/1sdhZNCu57sPCl8roWrd6H-ZST9
 ## Entrega de trabalho e avaliações digitalizados
 
 É facultado ao aluno enviar seus trabalhos por email, desde que esteja ***escaneado, com boa qualidade, e todas as folhas/páginas em um único arquivo PDF.***
+
 Recomendo o uso do app [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner). 
+
+
 **FOTOS SIMPLES NÃO SERÃO ACEITAS**. 
 
 ## Plágio
