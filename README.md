@@ -16,6 +16,10 @@ https://goo.gl/forms/sXlxffBihUc8frJA2
 
 As avaliações serão **individuais** e *com consulta*.  
 
+## Atendimento
+
+Os atendimentos ocorrerão às quintas-feiras, das 14h às 17h30, na unidade Araras.  
+
 ## Calendário
 
 Clique [aqui](https://docs.google.com/spreadsheets/d/1sdhZNCu57sPCl8roWrd6H-ZST9i6O9C1zoK-M2qJ4aE/edit?usp=sharing) e veja o calendário previsto da matéria. *Sujeito a alterações!*
