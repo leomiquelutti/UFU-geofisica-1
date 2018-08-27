@@ -44,6 +44,10 @@ Geraldo Girão Nery (2013). Perfilagem geofísica em poço aberto: fundamentos b
 
 Philip Kearey, Michael Brooks and Ian Hill (2002). An introduction to geophysical exploration. 3rd edition, Blackwell Science.
 
+## Vamos fazer juntos?
+Vamos submeter um projeto para o [_Geoscientists Without Borders_](https://seg.org/About-SEG/Geoscientists-Without-Borders
+) da SEG!
+
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
